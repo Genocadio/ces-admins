@@ -693,7 +693,7 @@ export interface LeaderSearchResponseDto {
   accountStatus: AccountStatus;
   leadershipLevel: string;
   leadershipPlaceName: string;
-  departmentName: string;
+  department: DepartmentResponseDto;
   fullName: string;
 }
 

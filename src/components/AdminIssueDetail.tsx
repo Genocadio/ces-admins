@@ -1200,7 +1200,7 @@ export const AdminIssueDetail: React.FC<AdminIssueDetailProps> = ({
                               <span>{leader.leadershipPlaceName}</span>
                             </div>
                             <div className="text-gray-500 mt-1">
-                              {leader.departmentName}
+                              {leader.department?.nameEn}
                             </div>
                           </div>
                         </div>
