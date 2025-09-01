@@ -246,7 +246,7 @@ const AdminDashboard = () => {
                     className="inline-flex items-center mt-3 px-4 py-2 bg-purple-600 text-white text-sm font-medium rounded-md hover:bg-purple-700 focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-purple-500 transition-colors"
                   >
                     <TrendingUp className="w-4 h-4 mr-2" />
-                    Portly Dashboard
+                    Plotly Dashboard
                   </a>
                 </div>
               </div>
